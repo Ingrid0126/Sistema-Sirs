@@ -10,5 +10,8 @@ package ejemplo;
  * @author Julian Chacon
  */
 public class holamundo {
+    int hola;
+    
+    
     
 }
